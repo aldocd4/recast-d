@@ -1,0 +1,9 @@
+{
+	"name": "recast-d",
+	"authors": [
+		"Aldo"
+	],
+	"description": "D language recast port",
+	"copyright": "Copyright © 2018, Aldo",
+	"license": "Zlib"
+}
