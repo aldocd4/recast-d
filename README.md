@@ -1,2 +1,2 @@
 # recast-d
-Recast and Detour navigation mesh toolset wrapper for D language.
+D language port of Recast and Detour navigation mesh toolset.

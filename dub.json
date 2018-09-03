@@ -1,9 +1,15 @@
 {
-	"name": "recast-d",
+	"name": "derelict-recast",
 	"authors": [
 		"Aldo"
 	],
 	"description": "D language recast port",
 	"copyright": "Copyright © 2018, Aldo",
-	"license": "Zlib"
+	"license": "Zlib",
+	"dependencies": {
+        "derelict-util": "~>3.0.0-beta.2"
+	},
+	"targetName": "DerelictRecast",
+	"targetPath": "library",
+	"version": "1.0.0"
 }
